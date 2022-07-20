@@ -1,4 +1,3 @@
-# automacao-trilha-2
 <h1>
     <div align='center'>Automação QA - (Trilha 2) WebJump</div>
 </h1>
